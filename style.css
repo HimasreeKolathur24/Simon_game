@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+}
+.inner{
+    height:150px;
+    width:190px;
+    border-radius: 2.5rem;
+    border: 10px solid black;
+    margin:2rem;
+}
+
+.container{
+    display:flex;
+    justify-content: center;  /*always apply display flex to container*/
+}
+.red{
+    background-color: #bc4b57;
+}
+.green{
+    background-color:#5b8e7d ;
+}
+.yellow{
+    background-color:#f4a259 ;
+}
+.blue{
+    background-color:#294c60 ;
+}
+
+.bgcolor{
+    background-color: white;
+}
+
+.userflash{
+    background-color: rgb(103, 178, 28);
+}
